@@ -20,7 +20,11 @@ p {
 	background-color: #fff;
 	box-shadow: 0 0 10px #808080;
 	width: 410px;
-	margin: 2px 375px 30px; 
+	/* margin: 2px 375px 30px;  */
+	margin-top: 2px;
+	margin-bottom: 30px;
+	margin-left: auto;
+	margin-right: auto;
 	padding: 20px 50px 50px;
 	font-family: serif;
 	font-size: 18px;
